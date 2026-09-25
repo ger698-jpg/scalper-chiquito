@@ -1,3 +1,5 @@
 streamlit
-yfinance
+alpaca-py
 pandas
+numpy
+plotly
