@@ -1,6 +1,9 @@
 streamlit
-torch
-alpaca-py
 pandas
 numpy
+torch
+alpaca-py
 timesfm
+transformers
+einops
+huggingface_hub
