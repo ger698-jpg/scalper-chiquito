@@ -1,5 +1,6 @@
 streamlit
+torch
 alpaca-py
 pandas
 numpy
-plotly
+timesfm
